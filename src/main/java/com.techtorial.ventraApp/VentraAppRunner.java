@@ -73,6 +73,8 @@ public class VentraAppRunner {
                 System.out.println("Weekday Pass is $ " +mypass.getWeekendPass());
                 System.out.println(("Daily Pass is $ " +mypass.getDailyPass()));
 
+
+                System.out.println("My name is Gulnara");
         }
     }
 }
